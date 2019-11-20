@@ -1,1 +1,2 @@
-Test1 file created.
+Test1 file added from master inside opz.
+This is new line
